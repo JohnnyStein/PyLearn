@@ -4,4 +4,4 @@
 
 Classes:
 
-- [x] [Introduction](https://github.com/JohnnyStein/PyLearn/tree/masterIntroduction)
+- [x] [Introduction](https://github.com/JohnnyStein/PyLearn/tree/master/Introduction)
