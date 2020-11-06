@@ -9,4 +9,5 @@
 Classes:
 
 - [x] [#00 - Comments](https://github.com/JohnnyStein/PyLearn/tree/master/%2300%20-%20%20Comments)
+- [x] [#01 - Variables](https://github.com/JohnnyStein/PyLearn/tree/master/%2301%20-%20Variables)
 
