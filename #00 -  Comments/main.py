@@ -1,6 +1,6 @@
 # Comments
 # What are they?
-# Comments are lines ignored by the compiler
+# Comments are lines ignored by the interpreter
 # To make a single-line comment in Python
 # You just need to put a hashtag before your sentence
 # Like this:
